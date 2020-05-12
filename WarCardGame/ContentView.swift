@@ -47,11 +47,11 @@ struct ContentView: View {
                     //update scores
                     if self.randNum1 > self.randNum2
                     {
-                        self.score1 += 1
+                        self.score1 += 2
                     }
                     else if self.randNum2 > self.randNum1
                     {
-                        self.score2 += 1
+                        self.score2 += 2
                     }
                     
                 }) {
