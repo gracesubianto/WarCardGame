@@ -13,6 +13,7 @@
 		19472D46246A505600DA0B98 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 19472D45246A505600DA0B98 /* Assets.xcassets */; };
 		19472D49246A505600DA0B98 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 19472D48246A505600DA0B98 /* Preview Assets.xcassets */; };
 		19472D4C246A505600DA0B98 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 19472D4A246A505600DA0B98 /* LaunchScreen.storyboard */; };
+		19AFE9A924756BCF008A74CF /* TestFile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19AFE9A824756BCF008A74CF /* TestFile.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		19472D48246A505600DA0B98 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		19472D4B246A505600DA0B98 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		19472D4D246A505600DA0B98 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		19AFE9A824756BCF008A74CF /* TestFile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestFile.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				19472D4A246A505600DA0B98 /* LaunchScreen.storyboard */,
 				19472D4D246A505600DA0B98 /* Info.plist */,
 				19472D47246A505600DA0B98 /* Preview Content */,
+				19AFE9A824756BCF008A74CF /* TestFile.swift */,
 			);
 			path = WarCardGame;
 			sourceTree = "<group>";
@@ -147,6 +150,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				19472D40246A505600DA0B98 /* AppDelegate.swift in Sources */,
+				19AFE9A924756BCF008A74CF /* TestFile.swift in Sources */,
 				19472D42246A505600DA0B98 /* SceneDelegate.swift in Sources */,
 				19472D44246A505600DA0B98 /* ContentView.swift in Sources */,
 			);
